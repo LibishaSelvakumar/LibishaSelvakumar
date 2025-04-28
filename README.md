@@ -19,4 +19,4 @@ MCA student at SRM University
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Libisha?theme=dark&font=Manrope&ext=contest)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LibishaSelvakumar&bg_color=282526&color=ffffff&line=39e316&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
